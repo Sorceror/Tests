@@ -1,0 +1,5 @@
+Selenium/.idea/
+*.iml
+Selenium/target/
+Selenium/chromedriver.exe
+Selenium/test.screenshot.png
