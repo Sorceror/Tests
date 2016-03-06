@@ -1,0 +1,16 @@
+{
+  "name": "mochatest",
+  "version": "0.0.1",
+  "description": "Simple app that will show how to create node app with JSON response and how to test it with Mocha framework",
+  "main": "index.js",
+  "scripts": {
+    "test": ".\\node_modules\\.bin\\mocha --reporter spec"
+  },
+  "author": "Pavel Janecka",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "request": "^2.69.0"
+  }
+}
